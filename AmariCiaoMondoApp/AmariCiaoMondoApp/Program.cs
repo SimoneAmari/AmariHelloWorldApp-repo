@@ -7,6 +7,7 @@ namespace AmariCiaoMondoApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Ciao Mondo!");
         }
     }
 }
